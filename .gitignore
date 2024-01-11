@@ -1,0 +1,9 @@
+# directories
+.vscode/
+build/
+
+#files
+*.dat
+*.csv
+*.log
+*.txt
